@@ -62,9 +62,9 @@ var activescreen ='start screen';
           decoration: const BoxDecoration(
             gradient: LinearGradient(
               colors: [
-                Color.fromARGB(255, 113, 0, 183),
-                Color.fromARGB(248, 61, 0, 147),
-                Color.fromARGB(251, 46, 1, 90),
+                Color.fromARGB(255, 70, 1, 127),
+                Color.fromARGB(248, 53, 0, 127),
+                Color.fromARGB(250, 43, 1, 85),
               ],
               begin: Alignment.topCenter,
               end: Alignment.bottomCenter,
